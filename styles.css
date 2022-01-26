@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+ }
+#Top {
+  font-size: 50px;
+  text-align: center;
+  font-family: sans-serif;
+}
+h2 {
+  color: purple;
+  text-align: center;
+  font-size: 30px;
+}
+
+table {
+  border: 2px solid black;
+  font-family: Arial;
+  text-align: center;
+}
+
+.code {
+  font-family: sans-serif;
+  background-color: yellow;
+}
+thead {
+  color: black;
+  background-color: purple;
+}
+.tables {
+  margin-left: auto;
+  margin-right: auto;
+}
